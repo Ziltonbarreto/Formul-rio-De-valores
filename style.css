@@ -1,0 +1,11 @@
+body {
+    justify-items: center;
+    margin-top: 200px;
+    background-color: rgba(242, 26, 26, 0.198);
+}
+
+button {
+    justify-items: center;
+    margin-top: 16px;
+    background-color: rgb(5, 236, 36);
+}
